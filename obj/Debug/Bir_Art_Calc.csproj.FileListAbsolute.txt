@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Bir_Art_Calc\bin\Debug\Bir_Art_Calc.exe.config
+C:\Users\Admin\source\repos\Bir_Art_Calc\bin\Debug\Bir_Art_Calc.exe
+C:\Users\Admin\source\repos\Bir_Art_Calc\bin\Debug\Bir_Art_Calc.pdb
+C:\Users\Admin\source\repos\Bir_Art_Calc\obj\Debug\Bir_Art_Calc.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Bir_Art_Calc\obj\Debug\Bir_Art_Calc.Properties.Resources.resources
+C:\Users\Admin\source\repos\Bir_Art_Calc\obj\Debug\Bir_Art_Calc.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Bir_Art_Calc\obj\Debug\Bir_Art_Calc.exe
+C:\Users\Admin\source\repos\Bir_Art_Calc\obj\Debug\Bir_Art_Calc.pdb
+C:\Users\Admin\source\repos\Bir_Art_Calc\obj\Debug\Bir_Art_Calc.Form1.resources
